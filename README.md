@@ -236,13 +236,6 @@ Code-Sense/
 
 ## 🚀 Local Setup
 
-### Clone Repository
-
-```bash
-git clone https://github.com/WebDoveleprrr/Code-Sense.git
-cd Code-Sense
-```
-
 ---
 
 ### Backend Setup
